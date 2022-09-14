@@ -33,18 +33,24 @@ Hi there 👋
   <a href="https://kernel.org/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Linux-Dark.svg" alt="linux" width="40" height="40"/></a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Bash-Dark.svg" alt="bash" width="40" height="40"/></a> 
   <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Docker.svg" alt="docker" width="40" height="40"/></a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Git.svg" alt="git" width="40" height="40"/></a> 
   <a href="https://nginx.org/en/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Nginx.svg" alt="nginx" width="40" height="40"/></a> 
+  <a href="https://httpd.apache.org/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/apache.svg" alt="apache" width="40" height="40"/></a> 
+  <a href="https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/asm.svg" alt="assembly" width="40" height="40"/></a> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/C.svg" alt="C" width="40" height="40"/></a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/CPP.svg" alt="C++" width="40" height="40"/></a> 
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Arduino.svg" alt="arduino" width="40" height="40"/></a>
   <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/RaspberryPi-Dark.svg" alt="raspberrypi" width="40" height="40"/></a> 
   <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Python-Dark.svg" alt="python" width="40" height="40"/></a> 
   <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Flask-Dark.svg" alt="flask" width="40" height="40"/></a> 
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Django.svg" alt="django" width="40" height="40"/></a> 
   <a href="https://www.selenium.dev/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Selenium.svg" alt="selenium" width="40" height="40"/></a> 
   <a href="https://pytorch.org/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/PyTorch-Dark.svg" alt="pytorch" width="40" height="40"/></a> 
   <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/TensorFlow-Dark.svg" alt="tensorflow" width="40" height="40"/></a> 
   <a href="https://about.gitlab.com/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/GitLab-Dark.svg" alt="gitlab" width="40" height="40"/></a> 
+  <a href="https://www.postman.com/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/postman-dark.svg" alt="postman" width="40" height="40"/></a> 
   <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Figma-Dark.svg" alt="figma" width="40" height="40"/></a> 
+  <a href="https://www.notion.so/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/notion.svg" alt="notion" width="40" height="40"/></a> 
   <a href="https://www.blender.org/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Blender-Dark.svg" alt="blender" width="40" height="40"/></a> 
   <a href="https://www.haskell.org/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Haskell-Dark.svg" alt="haskell" width="40" height="40"/></a> 
   <a href="https://www.lua.org/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Lua-Dark.svg" alt="lua" width="40" height="40"/></a> 
