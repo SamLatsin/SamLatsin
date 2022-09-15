@@ -63,32 +63,16 @@
   <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/RaspberryPi-Dark.svg" alt="raspberrypi" width="40" height="40"/></a> 
 </p>
 
-### BLOCKCHAIN
-<p align="left"> 
- <a href="https://docs.soliditylang.org/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Solidity.svg" alt="solidity" width="40" height="40"/></a> 
-</p>
-
-### DATA AND MACHINE LEARNING
+### OTHER
 <p align="left"> 
   <a href="https://www.selenium.dev/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Selenium.svg" alt="selenium" width="40" height="40"/></a> 
   <a href="https://pytorch.org/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/PyTorch-Dark.svg" alt="pytorch" width="40" height="40"/></a> 
   <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/TensorFlow-Dark.svg" alt="tensorflow" width="40" height="40"/></a> 
-</p>
-
-### DESIGN
-<p align="left"> 
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Figma-Dark.svg" alt="figma" width="40" height="40"/></a> 
-</p>
-
-### UTILS
-<p align="left"> 
+  <a href="https://docs.soliditylang.org/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Solidity.svg" alt="solidity" width="40" height="40"/></a> 
   <a href="https://www.postman.com/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/postman-dark.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://www.notion.so/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/notion.svg" alt="notion" width="40" height="40"/></a> 
-</p>
-
-### OTHER
-<p align="left"> 
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Matlab-Dark.svg" alt="matlab" width="40" height="40"/></a> 
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Figma-Dark.svg" alt="figma" width="40" height="40"/></a> 
   <a href="https://www.lua.org/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Lua-Dark.svg" alt="lua" width="40" height="40"/></a> 
   <a href="https://www.haskell.org/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Haskell-Dark.svg" alt="haskell" width="40" height="40"/></a> 
 </p>
