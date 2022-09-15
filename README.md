@@ -5,8 +5,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-sam.latsin@gmail.com-c71610.svg)](mailto:sam.latsin@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%40kukuruza32-229ED9.svg)](https://t.me/kukuruza32)
 
-# About Me
-Hi there 👋
+# <img draggable="false" src="gifs/wave.gif" alt="Hi" height="45" width="45"/> Hello world, i'm SamLatsin
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=70A4FC&center=true&width=435&lines=Full+stack+app+developer;Always+learning+new+things;3%2B+years+of+coding+experience)](https://git.io/typing-svg)
 
 ## LANGUAGES & TOOLS
 
