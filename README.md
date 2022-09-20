@@ -77,6 +77,10 @@
   <a href="https://www.haskell.org/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Haskell-Dark.svg" alt="haskell" width="60" height="60"/></a> 
 </p>
 
+## MY PROJECTS
+
+## GITHUB STATS
+
 <!--
 **SamLatsin/SamLatsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
