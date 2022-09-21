@@ -81,6 +81,35 @@
 
 ## GITHUB STATS
 
+<div>
+  <div align="center">
+    <a href="#"><img alt="SamLatsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamLatsin&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" height="200"/></a>
+    <a href="#"><img alt="SamLatsin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamLatsin&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" height="200"/></a>
+    <p align="center"> 
+      <img src="https://komarev.com/ghpvc/?username=SamLatsin&label=Profile%20views&color=36BCF7&style=flat" alt="SamLatsin" />
+    </p>
+    <br/>
+    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+  </div>
+  <hr/>
+  <div>
+    <a href="#"><img alt="SamLatsin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SamLatsin&custom_title=SamLatsin's%20Contribution%20Graph&bg_color=0D1117&color=36BCF7&line=FFFFFF&point=36BCF7&hide_border=true" /></a>
+  <div> 
+</div>
+   
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SamLatsin&column=8&theme=onedark" />
+</div>
+
+<br/>
+   
+<div align="center">
+<!--
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/SamLatsin/SamLatsin/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/SamLatsin/SamLatsin/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+ -->
+</div>
+
 <!--
 **SamLatsin/SamLatsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
