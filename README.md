@@ -96,18 +96,13 @@
     <a href="#"><img alt="SamLatsin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SamLatsin&custom_title=SamLatsin's%20Contribution%20Graph&bg_color=0D1117&color=36BCF7&line=FFFFFF&point=36BCF7&hide_border=true" /></a>
   <div> 
 </div>
-   
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SamLatsin&column=6&theme=onedark" />
 </div>
-
 <br/>
-   
 <div align="center">
-<!--
   ![github contribution grid snake animation](https://raw.githubusercontent.com/SamLatsin/SamLatsin/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
   ![github contribution grid snake animation](https://raw.githubusercontent.com/SamLatsin/SamLatsin/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
- -->
 </div>
 
 <!--
