@@ -83,8 +83,8 @@
 
 <div>
   <div align="center">
-    <a href="#"><img alt="SamLatsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamLatsin&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" height="200"/></a>
-    <a href="#"><img alt="SamLatsin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamLatsin&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" height="200"/></a>
+    <a href="#"><img alt="SamLatsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SamLatsin&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" height="180"/></a>
+    <a href="#"><img alt="SamLatsin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamLatsin&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" height="180"/></a>
     <p align="center"> 
       <img src="https://komarev.com/ghpvc/?username=SamLatsin&label=Profile%20views&color=36BCF7&style=flat" alt="SamLatsin" />
     </p>
@@ -98,7 +98,7 @@
 </div>
    
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamLatsin&column=8&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SamLatsin&column=6&theme=onedark" />
 </div>
 
 <br/>
