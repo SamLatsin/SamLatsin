@@ -83,6 +83,36 @@ I'm passionate self-taught full stack web developer and a freelance software eng
 
 ## <img draggable="false" src="gifs/projects.gif" alt="projects" height="30" width="30"/> MY PROJECTS
 
+<p style="display:flex">
+    <a href="https://github.com/SamLatsin/icon-themer">
+        <img width=132 src="projects/m1.gif" />
+    </a>
+    <a href="https://github.com/SamLatsin/lg-smart-remote">
+        <img width=132 src="projects/m2.gif" />
+    </a>
+    <a href="#">
+       <img width=132 src="projects/m3.gif" />
+    </a>
+    <a href="https://github.com/SamLatsin/soul-food">
+        <img width=132 src="projects/m4.gif" />
+    </a>
+    <a href="#">
+        <img width=132 src="projects/m5.gif" />
+    </a>
+    <a href="https://github.com/SamLatsin/icon-themer">
+        <img width=132 src="projects/m6.gif" />
+    </a>
+</p>
+
+<p style="display:flex">
+    <a href="https://carzalog.com/">
+        <img width=405 src="projects/d1.gif" />
+    </a>
+    <a href="https://pulse.online/">
+        <img width=405 src="projects/d2.gif" />
+    </a>
+</p>
+
 ## <img draggable="false" src="gifs/stats.gif" alt="stats" height="30" width="30"/> GITHUB STATS
 
 <div>
