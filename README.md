@@ -8,7 +8,7 @@
 # <img draggable="false" src="gifs/wave.gif" alt="Hi" height="45" width="45"/> Hello world, i'm SamLatsin
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=70A4FC&center=true&width=435&lines=Full+stack+app+developer;Always+learning+new+things;3%2B+years+of+coding+experience)](https://git.io/typing-svg)
 
-## LANGUAGES & TOOLS
+## <img draggable="false" src="gifs/tools.gif" alt="" height="30" width="30"/> LANGUAGES & TOOLS
 
 ### BACKEND
 <p align="left"> 
@@ -77,9 +77,9 @@
   <a href="https://www.haskell.org/" target="_blank"> <img src="https://github.com/SamLatsin/SamLatsin/blob/main/skills/Haskell-Dark.svg" alt="haskell" width="60" height="60"/></a> 
 </p>
 
-## MY PROJECTS
+## <img draggable="false" src="gifs/projects.gif" alt="projects" height="30" width="30"/> MY PROJECTS
 
-## GITHUB STATS
+## <img draggable="false" src="gifs/stats.gif" alt="stats" height="30" width="30"/> GITHUB STATS
 
 <div>
   <div align="center">
