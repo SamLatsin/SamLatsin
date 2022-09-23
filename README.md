@@ -4,8 +4,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%40SamLatsin-239a3b.svg)](https://github.com/SamLatsin)
 [![Gmail](https://img.shields.io/badge/Gmail-sam.latsin@gmail.com-c71610.svg)](mailto:sam.latsin@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%40kukuruza32-229ED9.svg)](https://t.me/kukuruza32)
+[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/sam-latsin-871686251/)
 
-# <img draggable="false" src="gifs/wave.gif" alt="Hi" height="45" width="45"/> Hello world, i'm SamLatsin
+# <img draggable="false" src="gifs/wave.gif" alt="Hi" height="45" width="45"/> Hello world, i'm [SamLatsin](https://www.linkedin.com/in/sam-latsin-871686251/)
 <img align="right" draggable="false" src="gifs/programming.gif" alt="coding" height="225" width="400"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=70A4FC&center=true&width=435&lines=Full+stack+app+developer;Always+learning+new+things;3%2B+years+of+coding+experience)](https://git.io/typing-svg)
