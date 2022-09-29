@@ -91,13 +91,13 @@ I'm passionate self-taught full stack web developer and a freelance software eng
     <a href="https://github.com/SamLatsin/lg-smart-remote">
         <img width=132 src="projects/m2.gif" />
     </a>
-    <a href="#">
+    <a href="https://github.com/SamLatsin/vpn-lab">
        <img width=132 src="projects/m3.gif" />
     </a>
     <a href="https://github.com/SamLatsin/soul-food">
         <img width=132 src="projects/m4.gif" />
     </a>
-    <a href="#">
+    <a href="https://github.com/SamLatsin/vpn-lab">
         <img width=132 src="projects/m5.gif" />
     </a>
     <a href="https://github.com/SamLatsin/icon-themer">
