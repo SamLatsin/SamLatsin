@@ -3,7 +3,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40SamLatsin-239a3b.svg)](https://github.com/SamLatsin)
 [![Gmail](https://img.shields.io/badge/Gmail-sam.latsin@gmail.com-c71610.svg)](mailto:sam.latsin@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%40kukuruza32-229ED9.svg)](https://t.me/kukuruza32)
+[![Telegram](https://img.shields.io/badge/Telegram-%40SamLatsin-229ED9.svg)](https://t.me/SamLatsin)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/sam-latsin-871686251/)
 
 # <img draggable="false" src="gifs/wave.gif" alt="Hi" height="45" width="45"/> Hello world, i'm [SamLatsin](https://www.linkedin.com/in/sam-latsin-871686251/)
